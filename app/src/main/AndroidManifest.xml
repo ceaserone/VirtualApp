@@ -150,8 +150,8 @@
 
         <receiver
             android:name=".dev.CmdReceiver"
-            android:enabled="true"
-            android:exported="true">
+            android:enabled="false"
+            android:exported="false">
             <intent-filter>
                 <action android:name="${applicationId}.CMD" />
             </intent-filter>
