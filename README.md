@@ -2,7 +2,9 @@
 
 An Android virtualization engine that runs cloned apps in an isolated sandbox with Xposed module support. Fork with **full Android 14 (API 34) compatibility**.
 
-> **⚠️ Warning:** This project is highly unstable and under active development. Expect crashes, breaking changes, and incomplete features. Use at your own risk — not recommended for production use.
+##New version currently being updated!
+----->SynAckNetwork.com Build...
+----->Download compiled .apk or run the included workflow which is passing and compiling completely. 👍🤙
 
 ---
 
